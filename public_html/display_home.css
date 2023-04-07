@@ -1,0 +1,83 @@
+body{
+    overflow-x: hidden;
+}
+label
+{
+    padding: 7px;
+    display: table;
+    color: #fff;
+}
+
+input[type='file']
+{
+    display: none;
+}
+
+
+
+
+#content
+{
+    width:70%;
+}
+
+#btn-post
+{
+    min-width: 75px;
+    max-width: 75px;
+
+}
+
+#insert_post
+{
+    background-color: #fff;
+    border: 6px solid #e6e6e6;
+    padding: 40px 50px;
+}
+
+#posts
+{
+    border : 5px solid #e6e6e6;
+    padding: 40px 50px;
+}
+
+#post-img
+{
+    padding-top: 5px;
+    padding-right: 10px;
+    min-width: 102%;
+    max-width: 50%;
+}
+
+#single-posts
+{
+    border : 5px solid #e6e6e6;
+    padding: 40px 50px;
+}
+
+.pb-cmnt-container
+{
+    font-family: Lato;
+    margin-top: 100px;
+}
+
+#pb-cmnt-textarea
+{
+    resize: none;
+    padding: 20px;
+    height: 110px;
+    width: 100px;
+    border: 1px solid #f2f2f2;
+}
+
+ li a {
+  color: #574621;
+  text-decoration: none;
+  margin: 0 10px;
+}
+ li a:visited {
+  text-decoration: none
+}
+ li a:hover {
+  text-decoration: underline
+}
